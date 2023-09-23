@@ -1,0 +1,116 @@
+    .button-group1 {
+        text-align: center;
+
+    }
+
+    .button-group2 {
+        text-align: center;
+
+    }
+
+    body {
+
+        background-color: rgb(219, 219, 219);
+
+    }
+
+    .page-container>h2 {
+        text-align: left;
+
+    }
+
+
+
+    .button-group1 button {
+        font-size: 16px;
+        text-transform: uppercase;
+        color: #fdfdfd;
+        background-color: #800000;
+        ;
+        cursor: pointer;
+        width: 100%;
+        text-align: center;
+        margin-top: 10px;
+
+
+    }
+
+
+
+    #blueButton {
+        background-color: blue;
+
+
+    }
+
+    #redButton {
+        background-color: red;
+    }
+
+    #greenButton {
+        background-color: green;
+    }
+
+    #purpleButton {
+        background-color: purple;
+    }
+
+
+
+    h2 {
+        margin-left: auto;
+        margin-right: auto;
+        text-align-last: left;
+    }
+
+    #counterText {
+
+        font-size: 2em;
+        text-align: center;
+    }
+
+    #favoriteColorContainer {
+        text-align: center;
+
+
+    }
+
+    #favoriteColorBox {
+
+        background-color: #800000;
+        line-height: 100px;
+        text-align: center;
+        width: 200px;
+        margin: auto;
+        color: white;
+
+    }
+
+    .button-group2 button {
+
+        font-size: 16px;
+        color: #ebebec;
+        background-color: #800000;
+        ;
+        cursor: pointer;
+        margin-top: 20px;
+        width: 100%;
+
+
+    }
+
+    hr {
+
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .coli {
+
+        text-align: center;
+        padding: 2px;
+        padding-bottom: 2px;
+
+
+    }
